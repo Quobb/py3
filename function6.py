@@ -12,7 +12,7 @@ def prime(n):
 # list_numb = filter(prime,i)
 # even_numb = list(list_numb)
 
-print(even_numb)
+# print(even_numb)
 
 s = int(input("enter a number : "))
 print(prime(s))

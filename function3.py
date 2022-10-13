@@ -7,4 +7,3 @@ def search (x):
 arr=['champ','nabil','quobbi']
 
 
-print(str(search('champ')))

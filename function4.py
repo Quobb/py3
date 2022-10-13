@@ -17,6 +17,6 @@ class intern():
         return new_intern.getdata()
 new_intern= intern('champ','quobbi','g21','0254785','7685567')
 #print(new_intern.getdata())
-print(intern.getdata(''))
+#print(intern.getdata(''))
 
        
